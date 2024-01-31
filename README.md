@@ -5,7 +5,7 @@
 Flutter app with google map
 <br>
 
-![](https://github.com/kouseina/find-location/blob/main/assets/demo.gif)
+<img src="https://github.com/kouseina/find-location/blob/main/assets/demo.gif" width="300"/>
 
 <br>
 ## Tools Version
