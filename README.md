@@ -1,16 +1,32 @@
-# find_location
+<br>
+<br>
 
-A new Flutter project.
+# Find Location
+Flutter app with google map
+<br>
 
-## Getting Started
+![](https://github.com/kouseina/find-location/blob/main/assets/demo.gif)
 
-This project is a starting point for a Flutter application.
+<br>
+## Tools Version
 
-A few resources to get you started if this is your first Flutter project:
+Flutter 3.13.9 • channel stable • https://github.com/flutter/flutter.git </br>
+Tools • Dart 3.1.5 • DevTools 2.25.0 </br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Step 1:**
+
+Download or clone this repo by using the link below:
+
+```
+https://github.com/kouseina/find-location.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
